@@ -1,0 +1,22 @@
+/*DEVELOPER: Pari Patel, IS117-101, Fall, 2019 */
+.bgimage {
+    width:100%;
+    height:100vh;
+    background-imagke: url("https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.bgimage h5 {
+    color:white;
+    text-shadow:2px 2px #333;
+}
+.jumbotron{
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.homefont{
+    font-family: 'Montserrat', sans-serif;
+}
+
