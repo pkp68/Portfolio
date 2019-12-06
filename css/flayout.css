@@ -1,0 +1,16 @@
+/*DEVELOPER: Pari Patel, IS117-101, Fall, 2019 */
+html, body{
+    height: 100%;
+    width: 100%;
+}
+.zhome-content{
+    height: 100%;
+    max-width: 960px;
+    background-color: #afcae5;
+}
+.fContent{
+    height: 100%;
+}
+.fSidebar{
+    height: 100%;
+}
